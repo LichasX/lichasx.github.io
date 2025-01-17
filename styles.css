@@ -8,3 +8,10 @@ body {
   line-height: 1.6;
   padding: 20px;
 }
+
+.exclamation-text {
+  font-size: 3rem; /* 3x the normal body font size */
+  color: red; /* Red text */
+  text-decoration: underline; /* Underline the text */
+  font-weight: bold;
+}
